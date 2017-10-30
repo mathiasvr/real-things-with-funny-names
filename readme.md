@@ -9,6 +9,7 @@ I used to bookmark things like this just because of the name. Please let me know
 - [Christmas tree packet](https://en.wikipedia.org/wiki/Christmas_tree_packet) - Network packet with every option set for the protocol in use.
 - [Cowboy coding](https://en.wikipedia.org/wiki/Cowboy_coding) - Undisciplined approach to software development.
 - [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality) - Phenomena that arise when analyzing data in high-dimensional spaces.
+- [Dark data](https://en.wikipedia.org/wiki/Dark_data) - Operational data that is not being used.
 - [Eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) - Using own products or services for internal operations.
 - [The Great Attractor](https://en.wikipedia.org/wiki/Great_Attractor) - A gravitational anomaly tens of thousands of times more massive than the Milky Way.
 - [Hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) - Graphical representation of the maturity, adoption and social application of technologies.
