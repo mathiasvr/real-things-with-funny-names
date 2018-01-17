@@ -4,6 +4,7 @@ I used to bookmark things like this just because of the name. Please let me know
 
 - [Baby Boom Galaxy](https://en.wikipedia.org/wiki/Baby_Boom_Galaxy) - Starburst galaxy generating over 4,000 stars per year.
 - [Birthday problem](https://en.wikipedia.org/wiki/Birthday_problem) - Probability that two people in a group have the same birthday.
+- [Broadcast storm](https://en.wikipedia.org/wiki/Broadcast_storm) - Accumulation of broadcast and multicast traffic on a computer network.
 - [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) - Minimum number of team members that can disappear from a project before it stalls.
 - [Cannibalize](https://en.oxforddictionaries.com/definition/cannibalize) - Use a machine as a source of spare parts for another machine.
 - [Christmas tree packet](https://en.wikipedia.org/wiki/Christmas_tree_packet) - Network packet with every option set for the protocol in use.
