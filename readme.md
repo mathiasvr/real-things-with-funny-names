@@ -16,5 +16,6 @@ I used to bookmark things like this just because of the name. Please let me know
 - [Hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) - Graphical representation of the maturity, adoption and social application of technologies.
 - [Look-elsewhere effect](https://en.wikipedia.org/wiki/Look-elsewhere_effect) - Phenomenon where a statistically significant observation have actually arisen by chance.
 - [Martian packet](https://en.wikipedia.org/wiki/Martian_packet) - IP packet with a source or destination address reserved for special-use.
+- [Rainbow table](https://en.wikipedia.org/wiki/Rainbow_table) - Precomputed table for reversing cryptographic hash functions.
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Method of debugging code by explaining it to a rubber duck.
 - [Space-time crystal](https://en.wikipedia.org/wiki/Space-time_crystal) - Structure that repeats periodically in time and space.
