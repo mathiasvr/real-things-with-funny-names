@@ -13,6 +13,7 @@ I used to bookmark things like this just because of the name. Please let me know
 - [Dark data](https://en.wikipedia.org/wiki/Dark_data) - Operational data that is not being used.
 - [Eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) - Using own products or services for internal operations.
 - [The Great Attractor](https://en.wikipedia.org/wiki/Great_Attractor) - A gravitational anomaly tens of thousands of times more massive than the Milky Way.
+- [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - Software bug that seems to disappear when one attempts to study it.
 - [Hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) - Graphical representation of the maturity, adoption and social application of technologies.
 - [Look-elsewhere effect](https://en.wikipedia.org/wiki/Look-elsewhere_effect) - Phenomenon where a statistically significant observation have actually arisen by chance.
 - [Martian packet](https://en.wikipedia.org/wiki/Martian_packet) - IP packet with a source or destination address reserved for special-use.
