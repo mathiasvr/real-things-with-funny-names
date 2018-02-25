@@ -20,3 +20,4 @@ I used to bookmark things like this just because of the name. Please let me know
 - [Rainbow table](https://en.wikipedia.org/wiki/Rainbow_table) - Precomputed table for reversing cryptographic hash functions.
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Method of debugging code by explaining it to a rubber duck.
 - [Space-time crystal](https://en.wikipedia.org/wiki/Space-time_crystal) - Structure that repeats periodically in time and space.
+- [Surreal number](https://en.wikipedia.org/wiki/Surreal_number) - Natural collection of numbers including the real numbers and the infinite ordinal numbers.
