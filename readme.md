@@ -22,6 +22,8 @@ I used to bookmark things like this just because of the name. Please let me know
   Operational data that is not being used.
 - [Eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) -
   Using own products or services for internal operations.
+- [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) -
+  Denial-of-service attack where a process replicates itself to deplete available system resources.
 - [The Great Attractor](https://en.wikipedia.org/wiki/Great_Attractor) -
   A gravitational anomaly tens of thousands of times more massive than the Milky Way.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) -
