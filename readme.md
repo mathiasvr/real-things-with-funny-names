@@ -4,6 +4,8 @@ I used to bookmark things like this just because of the name. Please let me know
 
 - [Baby Boom Galaxy](https://en.wikipedia.org/wiki/Baby_Boom_Galaxy) -
   Starburst galaxy generating over 4,000 stars per year.
+- [Baby-step giant-step](https://en.wikipedia.org/wiki/Baby-step_giant-step) -
+  Algorithm for computing the discrete logarithm.
 - [Birthday problem](https://en.wikipedia.org/wiki/Birthday_problem) -
   Probability that two people in a group have the same birthday.
 - [Broadcast storm](https://en.wikipedia.org/wiki/Broadcast_storm) -
