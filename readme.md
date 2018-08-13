@@ -36,6 +36,8 @@ I used to bookmark things like this just because of the name. Please let me know
   Phenomenon where a statistically significant observation have actually arisen by chance.
 - [Martian packet](https://en.wikipedia.org/wiki/Martian_packet) -
   IP packet with a source or destination address reserved for special-use.
+- [Paper street](https://en.wikipedia.org/wiki/Paper_street) -
+  A road or street that appears on maps but does not exist in reality.
 - [Rainbow table](https://en.wikipedia.org/wiki/Rainbow_table) -
   Precomputed table for reversing cryptographic hash functions.
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) -
