@@ -50,3 +50,5 @@ I used to bookmark things like this just because of the name. Please let me know
   Natural collection of numbers including the real numbers and the infinite ordinal numbers.
 - [Tamagotchi effect](https://en.wikipedia.org/wiki/Tamagotchi_effect)
   Development of emotional attachment with machines, robots or software agents.
+- [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
+  Geometry that uses the Manhattan distance metric.
