@@ -6,7 +6,7 @@ I used to bookmark things like this just because of the name. Please let me know
   Starburst galaxy generating over 4,000 stars per year.
 - [Baby-step giant-step](https://en.wikipedia.org/wiki/Baby-step_giant-step) -
   Algorithm for computing the discrete logarithm.
-- [Ball tree](https://en.wikipedia.org/wiki/Ball_tree)
+- [Ball tree](https://en.wikipedia.org/wiki/Ball_tree) -
   Space partitioning data structure for organizing points in a multi-dimensional space.
 - [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) -
   A type of denial-of-service (DoS) attack aimed at parsers of XML documents.
@@ -50,9 +50,9 @@ I used to bookmark things like this just because of the name. Please let me know
   Structure that repeats periodically in time and space.
 - [Surreal number](https://en.wikipedia.org/wiki/Surreal_number) -
   Natural collection of numbers including the real numbers and the infinite ordinal numbers.
-- [Tamagotchi effect](https://en.wikipedia.org/wiki/Tamagotchi_effect)
+- [Tamagotchi effect](https://en.wikipedia.org/wiki/Tamagotchi_effect) -
   Development of emotional attachment with machines, robots or software agents.
-- [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
+- [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry) -
   Geometry that uses the Manhattan distance metric.
-- [Twin films](https://en.wikipedia.org/wiki/Twin_films)
+- [Twin films](https://en.wikipedia.org/wiki/Twin_films) -
   Films with very similar plot produced or released at the same time.
