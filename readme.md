@@ -54,3 +54,5 @@ I used to bookmark things like this just because of the name. Please let me know
   Development of emotional attachment with machines, robots or software agents.
 - [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
   Geometry that uses the Manhattan distance metric.
+- [Twin films](https://en.wikipedia.org/wiki/Twin_films)
+  Films with very similar plot produced or released at the same time.
