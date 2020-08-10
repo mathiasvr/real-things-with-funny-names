@@ -54,6 +54,8 @@ I used to bookmark things like this just because of the name. Please let me know
   Structure that repeats periodically in time and space.
 - [Surreal number](https://en.wikipedia.org/wiki/Surreal_number) -
   Natural collection of numbers including the real numbers and the infinite ordinal numbers.
+- [Tail risk](https://en.wikipedia.org/wiki/Tail_risk) -
+  The financial risk of an asset moving more than 3 standard deviations from its current price.
 - [Tamagotchi effect](https://en.wikipedia.org/wiki/Tamagotchi_effect) -
   Development of emotional attachment with machines, robots or software agents.
 - [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry) -
