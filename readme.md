@@ -1,6 +1,6 @@
 # Real Things with Funny Names
 
-I used to bookmark things like this just because of the name. Please let me know if you have more examples! :)
+List of things with names that, without any context, sounds quite strange.
 
 - [Baby Boom Galaxy](https://en.wikipedia.org/wiki/Baby_Boom_Galaxy) -
   Starburst galaxy generating over 4,000 stars per year.
@@ -64,3 +64,8 @@ I used to bookmark things like this just because of the name. Please let me know
   Geometry that uses the Manhattan distance metric.
 - [Twin films](https://en.wikipedia.org/wiki/Twin_films) -
   Films with very similar plot produced or released at the same time.
+
+---
+
+I used to bookmark things like this just because of the name.
+Please let me know if you have more examples! :)
