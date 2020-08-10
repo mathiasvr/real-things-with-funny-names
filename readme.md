@@ -18,6 +18,8 @@ I used to bookmark things like this just because of the name. Please let me know
   Accumulation of broadcast and multicast traffic on a computer network.
 - [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) -
   Minimum number of team members that can disappear from a project before it stalls.
+- [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect) -
+  When a small change in a system can result in large differences.
 - [Cannibalize](https://en.oxforddictionaries.com/definition/cannibalize) -
   Use a machine as a source of spare parts for another machine.
 - [Christmas tree packet](https://en.wikipedia.org/wiki/Christmas_tree_packet) -
