@@ -12,6 +12,8 @@ I used to bookmark things like this just because of the name. Please let me know
   A type of denial-of-service (DoS) attack aimed at parsers of XML documents.
 - [Birthday problem](https://en.wikipedia.org/wiki/Birthday_problem) -
   Probability that two people in a group have the same birthday.
+- [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) -
+   Metaphor that describes an event that has a major effect and comes as a surprise.
 - [Broadcast storm](https://en.wikipedia.org/wiki/Broadcast_storm) -
   Accumulation of broadcast and multicast traffic on a computer network.
 - [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) -
