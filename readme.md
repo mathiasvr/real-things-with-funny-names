@@ -36,6 +36,8 @@ List of things with names that, without any context, sounds quite strange.
   Denial-of-service attack where a process replicates itself to deplete available system resources.
 - [The Great Attractor](https://en.wikipedia.org/wiki/Great_Attractor) -
   A gravitational anomaly tens of thousands of times more massive than the Milky Way.
+- [Great Pacific garbage patch](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch)
+  A gyre of marine debris particles in the central North Pacific Ocean.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) -
   Software bug that seems to disappear when one attempts to study it.
 - [Holy grail distribution](https://en.wikipedia.org/wiki/Holy_grail_distribution) -
