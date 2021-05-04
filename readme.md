@@ -45,7 +45,7 @@ List of things with names that, without any context, sounds quite strange.
 - [Hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) -
   Graphical representation of the maturity, adoption and social application of technologies.
 - [Look-elsewhere effect](https://en.wikipedia.org/wiki/Look-elsewhere_effect) -
-  Phenomenon where a statistically significant observation have actually arisen by chance.
+  Phenomenon where a statistically significant observation have arisen by chance.
 - [Martian packet](https://en.wikipedia.org/wiki/Martian_packet) -
   IP packet with a source or destination address reserved for special-use.
 - [Paper street](https://en.wikipedia.org/wiki/Paper_street) -
