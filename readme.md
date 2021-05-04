@@ -24,6 +24,8 @@ List of things with names that, without any context, sounds quite strange.
   Use a machine as a source of spare parts for another machine.
 - [Christmas tree packet](https://en.wikipedia.org/wiki/Christmas_tree_packet) -
   Network packet with every option set for the protocol in use.
+- [Code golf](https://en.wikipedia.org/wiki/Code_golf) -
+  Recreational programming competition to achieve the shortest source code of an algorithm.
 - [Cowboy coding](https://en.wikipedia.org/wiki/Cowboy_coding) -
   Undisciplined approach to software development.
 - [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality) -
