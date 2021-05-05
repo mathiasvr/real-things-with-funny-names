@@ -16,6 +16,8 @@ List of things with names that, without any context, sounds quite strange.
    Metaphor that describes an event that has a major effect and comes as a surprise.
 - [Broadcast storm](https://en.wikipedia.org/wiki/Broadcast_storm) -
   Accumulation of broadcast and multicast traffic on a computer network.
+- [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) -
+  Simple sorting algorithm that compares and swaps adjacent elements.
 - [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) -
   Minimum number of team members that can disappear from a project before it stalls.
 - [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect) -
