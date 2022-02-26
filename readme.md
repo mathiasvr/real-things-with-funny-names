@@ -58,6 +58,8 @@ List of things with names that, without any context, sounds quite strange.
   Precomputed table for reversing cryptographic hash functions.
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) -
   Method of debugging code by explaining it to a rubber duck.
+- [Sneakernet](https://en.wikipedia.org/wiki/Sneakernet) -
+  Transfer of electronic information by physically moving media between computers.
 - [Space-time crystal](https://en.wikipedia.org/wiki/Space-time_crystal) -
   Structure that repeats periodically in time and space.
 - [Surreal number](https://en.wikipedia.org/wiki/Surreal_number) -
